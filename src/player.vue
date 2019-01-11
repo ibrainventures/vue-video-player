@@ -161,7 +161,7 @@
         }
 
         // videoOptions
-        console.log('videoOptions', videoOptions)
+        // console.log('videoOptions', videoOptions)
         
         // player
         const self = this
